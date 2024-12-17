@@ -16,8 +16,8 @@ class Fish < Formula
     depends_on "sphinx-doc" => :build
   end
 
-  depends_on "rust" => :build
   depends_on "cmake" => :build
+  depends_on "rust" => :build
   depends_on "pcre2"
 
   def install
