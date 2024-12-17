@@ -1,7 +1,7 @@
 class Fish < Formula
   desc "User-friendly command-line shell for UNIX-like operating systems"
   homepage "https://fishshell.com"
-  url "https://github.com/fish-shell/fish-shell/releases/download/4.0.1/fish-4.0b1.tar.xz"
+  url "https://github.com/fish-shell/fish-shell/releases/download/4.0b1/fish-4.0b1.tar.xz"
   sha256 "534334e10f85722214e9daff82a57cc3501235523f16f8f131c2344e4ec98da7"
   license "GPL-2.0-only"
 
